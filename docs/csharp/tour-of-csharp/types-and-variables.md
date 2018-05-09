@@ -101,7 +101,8 @@ There are several kinds of *variables* in C#, including fields, array elements, 
     - A `null` value or a value of that exact type
 * object
     - A `null` reference, a reference to an object of any reference type, or a reference to a boxed value of any value type
-* Class type
+* Class type 
+
     - A `null` reference, a reference to an instance of that class type, or a reference to an instance of a class derived from that class type
 * Interface type
     - A `null` reference, a reference to an instance of a class type that implements that interface type, or a reference to a boxed value of a value type that implements that interface type
